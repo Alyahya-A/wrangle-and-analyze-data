@@ -24,3 +24,24 @@ tweepy
 json
 You need to be able to create written documents that contain images and you need to be able to export these documents as PDF files. This task can be done in a Jupyter Notebook, but you might prefer to use a word processor like Google Docs, which is free, or Microsoft Word.
 A text editor, like Sublime, which is free, will be useful but is not required.
+
+
+# Project Details
+Your tasks in this project are as follows:
+
+Data wrangling, which consists of:
+Gathering data (downloadable file in the Resources tab in the left most panel of your classroom and linked in step 1 below).
+Assessing data
+Cleaning data
+Storing, analyzing, and visualizing your wrangled data
+Reporting on 1) your data wrangling efforts and 2) your data analyses and visualizations
+
+
+# Project Workspace page:
+`wrangle_act.ipynb`: code for gathering, assessing, cleaning, analyzing, and visualizing data
+`wrangle_report.pdf` or `wrangle_report.html`: documentation for data wrangling steps: gather, assess, and clean
+`act_report.pdf` or `act_report.html`: documentation of analysis and insights into final data
+`twitter_archive_enhanced.csv`: file as given
+`image_predictions.tsv`: file downloaded programmatically
+`tweet_json.txt`: file constructed via API
+`twitter_archive_master.csv`: combined and cleaned data
